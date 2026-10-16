@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+company_test.csv
+text.txt
